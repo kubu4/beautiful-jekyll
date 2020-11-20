@@ -15,9 +15,7 @@ author: Samb
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Lab Notebook: "lab_notebook"
   Publications: "publications"
 
 # --- Logo --- #
